@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Haoyu's Homepage</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/resume.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="img/favicon.ico" /> 
+  </head>
+
+  <body id="page-top">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">导航 - NAVI</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#repositories">Repositories</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid p-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h2 class="mb-0">潘浩宇
+            <span class="text-primary">Haoyu Pan</span>
+          </h2>
+          <div class="subheading mb-5">安徽农业大学 / 安徽 · 合肥 / 
+            <a href="haoyu_pan@163.com">haoyu_pan@163.com</a>
+          </div>
+          <p class="mb-5">安徽农业大学信息与计算机学院本科在读。我感兴趣的学习方向是深度学习、自然语言处理。我认为，自然语言交互是下一代人机交互的主要模式，也是实现人工智能的必经之路。<br>I am studying in the school of information and computer science, anhui agricultural university, majoring in deep learning and natural language processing. In my opinion, natural language interaction is the main mode of the next generation of human-computer interaction and the only way to realize artificial intelligence.</p>
+          <ul class="list-inline list-social-icons mb-0">
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-qq fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <!-- <div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >网站建设</a></div> -->
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="repositories">
+        <div class="my-auto">
+          <h2 class="mb-5">Repositories</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">自然语言处理相关</h3>
+              <a class="subheading mb-3" href="https://github.com/Panverson/LearnNLP">Nature Language Processing - GitHub</a>
+              <p>问答系统、自动古诗生成</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <!-- <span class="text-primary">2019</span> -->
+            </div>
+          </div>
+          
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">算法题解</h3>
+              <a class="subheading mb-3" href = "https://github.com/Panverson/Algorithm">Algorithm Solutions - GitHub</a>
+              <p>算法题解和思路</p>
+            </div>            
+          </div>
+          <!-- 
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Web Design Intern</h3>
+              <div class="subheading mb-3">Shout! Media Productions</div>
+              <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">September 2008 - June 2010</span>
+            </div>
+          </div> -->
+        </div>
+
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+        <div class="my-auto">
+          <h2 class="mb-5">Education</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">安徽农业大学 &nbsp ANHUI AGRICULTURAL UNIVERSITY</h3>
+              <div class="subheading mb-3">物联网工程 &nbsp IOT Engineering</div>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">September 2016 - Now</span>
+            </div>
+          </div>
+
+          <!-- <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">James Buchanan High School</h3>
+              <div class="subheading mb-3">Technology Magnet Program</div>
+              <p>GPA: 3.56</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2002 - May 2006</span>
+            </div>
+          </div> -->
+
+        </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
+        <div class="my-auto">
+          <h2 class="mb-5">Awards</h2>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              全国大学生计算机设计大赛 二等奖 2019, 杭州</li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              “华为杯” 全国大学生物联网设计竞赛 华东赛区 一等奖 2019, 上海</li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              LeetCode 全国高校编程大赛 前3.5%</li>
+            
+           <!--  <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              1<sup>st</sup>
+              Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              2<sup>nd</sup>
+              Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
+            <li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              1<sup>st</sup>
+              Place - James Buchanan High School - Hackathon 2006</li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              3<sup>rd</sup>
+              Place - James Buchanan High School - Hackathon 2005</li>
+               -->
+          </ul>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.min.js"></script>
+
+  </body>
+
+</html>
